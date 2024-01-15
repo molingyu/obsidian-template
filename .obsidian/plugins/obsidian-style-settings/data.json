@@ -1,0 +1,8 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@bt-colorful-titlebar": false,
+  "blue-topaz-theme@@style-options-for-kanban-plugin-static": "style-options-for-kanban-plugin-static-default",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@file-line-width": 60
+}

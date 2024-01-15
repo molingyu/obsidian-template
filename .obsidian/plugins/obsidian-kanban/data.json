@@ -1,0 +1,12 @@
+{
+  "new-note-template": "1-Template/计划.md",
+  "new-note-folder": "8-Project/年度计划/2024",
+  "metadata-keys": [
+    {
+      "metadataKey": "project-tags",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ]
+}
